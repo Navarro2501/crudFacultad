@@ -1,0 +1,12 @@
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\obj\Debug\Escuela_BLL.csproj.CoreCompileInputs.cache
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\obj\Debug\Escuela_BLL.csprojAssemblyReference.cache
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\Escuela_BLL.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\Escuela_BLL.pdb
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\Escuela_DAL.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\Escuela_DAL.pdb
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\obj\Debug\Escuela_BLL.csproj.CopyComplete
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\obj\Debug\Escuela_BLL.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\obj\Debug\Escuela_BLL.pdb
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\EntityFramework.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\Escuela_DAL.dll.config
+D:\Capacitación .NET\TablasFacultad\Escuela_BLL\bin\Debug\EntityFramework.xml

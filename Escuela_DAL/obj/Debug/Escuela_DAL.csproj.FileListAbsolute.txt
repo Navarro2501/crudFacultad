@@ -1,0 +1,10 @@
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\obj\Debug\Escuela_DAL.csprojAssemblyReference.cache
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\obj\Debug\Escuela_DAL.csproj.CoreCompileInputs.cache
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\bin\Debug\Escuela_DAL.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\bin\Debug\Escuela_DAL.pdb
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\obj\Debug\Escuela_DAL.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\obj\Debug\Escuela_DAL.pdb
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\bin\Debug\Escuela_DAL.dll.config
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\bin\Debug\EntityFramework.dll
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\bin\Debug\EntityFramework.xml
+D:\Capacitación .NET\TablasFacultad\Escuela_DAL\obj\Debug\Escuela_DAL.csproj.CopyComplete
